@@ -15,16 +15,18 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bocho0600?tab=repositories](https://github.com/bocho0600?tab=repositories)
 
-- 💬 Ask me about **ROS, ros2_control, SLAM, NAV2**
+- 💬 Ask me about **ROS, ros2_control, SLAM, NAV2, ...**
 
 - 📫 How to reach me **nguyenleminh1002@gmail.com**
+
+- 👨‍💻 I am certified in **Machine Learning, Generative AI and Large Language Model!**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15ztLRip1_s64EGKghlIr4lTkpI5fKXyn/view?usp=sharing](https://drive.google.com/file/d/15ztLRip1_s64EGKghlIr4lTkpI5fKXyn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bocho0600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bocho0600" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kelvin le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin le" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kelvin-le-06a50b261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin le" height="30" width="40" /></a>
 <a href="https://www.facebook.com/minhnguyen10022004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kelvin le" height="30" width="40" /></a>
 <a href="https://instagram.com/mnguyen_1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnguyen_1002" height="30" width="40" /></a>
 </p>
