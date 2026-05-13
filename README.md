@@ -89,4 +89,12 @@
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bocho0600&theme=github-dark&hide_border=true&radius=16)
+
+</div>
