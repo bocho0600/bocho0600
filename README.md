@@ -1,129 +1,89 @@
-<h1 align="center">Hi 👋, I'm Kelvin Le</h1>
-<h3 align="center">An enthusiastic Mechatronics/Aerospace Engineering undergraduate driven by curiosity and a passion for research and technological exploration.</h3>
+# Hi 👋, I'm Kelvin Le
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bocho0600&label=Profile%20views&color=0e75b6&style=flat" alt="bocho0600" /> </p>
+**Mechatronics/Aerospace Engineering undergraduate** | Passionate about robotics, autonomous systems, and real-time control
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bocho0600" alt="bocho0600" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bocho0600" target="blank"><img src="https://img.shields.io/twitter/follow/bocho0600?logo=twitter&style=for-the-badge" alt="bocho0600" /></a> </p>
-
-- 🔭 I’m currently working on [QuadROS – An open-source quadcopter software framework designed for real-time control, simulation, and development on UAV platforms using ROS2](https://github.com/bocho0600/ros2-quadro)
-
-- 🌱 I’m currently learning **Machine Learning and Deep Learning, with hands-on experience in TensorFlow and PyTorch frameworks.**
-
-- 👯 I’m looking to collaborate on [Quadro – A custom autopilot board firmware developed for a self-designed UAV flight controller board. It handles low-level control and sensor processing onboard, and interfaces with an embedded onboard computer running ROS for high-level navigation and mission planning.](https://github.com/bocho0600/quadro-quadcopter)
-
-- 👨‍💻 All of my projects are available at [https://github.com/bocho0600?tab=repositories](https://github.com/bocho0600?tab=repositories)
-
-- 💬 Ask me about **ROS, ros2_control, SLAM, NAV2, ...**
-
-- 📫 How to reach me **nguyenleminh1002@gmail.com**
-
-- 👨‍💻 I am certified in **Machine Learning, Generative AI and Large Language Model!**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15ztLRip1_s64EGKghlIr4lTkpI5fKXyn/view?usp=sharing](https://drive.google.com/file/d/15ztLRip1_s64EGKghlIr4lTkpI5fKXyn/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/bocho0600" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bocho0600" height="30" width="40" />
+    <img src="https://img.shields.io/twitter/follow/bocho0600?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/kelvin-le-06a50b261/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin le" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Le-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/minhnguyen10022004/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kelvin le" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mnguyen_1002" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnguyen_1002" height="30" width="40" />
-  </a>
-  <a href="https://discord.com/users/bocho0600" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bocho0600" height="30" width="40" />
+  <a href="mailto:nguyenleminh1002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 Current Projects
+
+- **[QuadROS](https://github.com/bocho0600/ros2-quadro)** – Open-source quadcopter software framework for real-time control, simulation, and UAV development using ROS2
+- **[Quadro Autopilot](https://github.com/bocho0600/quadro-quadcopter)** – Custom firmware for self-designed UAV flight controller board with onboard sensor processing and ROS integration
+
+## 🌱 Learning & Skills
+
+- Machine Learning & Deep Learning (TensorFlow, PyTorch)
+- **ROS2**, ros2_control, SLAM, NAV2, Path Planning
+- Real-time embedded systems and robotics
+- 🏆 Certified in Machine Learning, Generative AI, and Large Language Models
+
+## 💻 Tech Stack
+
 <p align="left">
-  <!-- Existing Tools -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-
-  <!-- Added ROS2 -->
-  <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ros/ros2/master/ros2_logo.svg" alt="ros2" width="40" height="40"/>
-  </a>
-
-  <!-- Added PX4 -->
-  <a href="https://px4.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/PX4/px4-user_guide/main/assets/logo/px4_logo_black.svg" alt="px4" width="40" height="40"/>
-  </a>
-
-  <!-- Added MAVROS -->
-  <a href="https://github.com/mavlink/mavros" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mavlink/mavros/master/mavros/mavros_logo.png" alt="mavros" width="40" height="40"/>
-  </a>
-
-  <!-- Added SLAM (text badge) -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SLAM-3D%20Mapping-blueviolet?style=for-the-badge&logo=semanticweb" alt="slam" height="28"/>
-  </a>
-
-  <!-- Added NAV2 (text badge) -->
-  <a href="https://navigation.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NAV2-ROS2%20Navigation-informational?style=for-the-badge&logo=ros" alt="nav2" height="28"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" alt="ROS2"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bocho0600&show_icons=true&locale=en&layout=compact" alt="bocho0600" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bocho0600&show_icons=true&locale=en" alt="bocho0600" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bocho0600&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bocho0600&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bocho0600&" alt="bocho0600" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocho0600&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+</div>
 
-<br clear="both">
+## 🎯 Ask Me About
+
+- ROS2 & ros2_control architecture
+- SLAM algorithms and 3D mapping
+- UAV autopilot systems and control loops
+- Real-time embedded systems
+- Robotics simulation and testing
+
+## 📄 More About Me
+
+👨‍💻 Check out all my projects: [GitHub Repositories](https://github.com/bocho0600?tab=repositories)
+
+📖 View my experience & resume: [Google Drive Resume](https://drive.google.com/file/d/15ztLRip1_s64EGKghlIr4lTkpI5fKXyn/view?usp=sharing)
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/bocho0600" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/kelvin-le-06a50b261/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://www.facebook.com/minhnguyen10022004/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+  <a href="https://instagram.com/mnguyen_1002" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+  <a href="https://discord.com/users/bocho0600" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bocho0600&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
