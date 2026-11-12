@@ -18,13 +18,15 @@
 
 ## 🚀 Current Projects
 
+- **Atlas-v1** – Mini rover on ROS2 Jazzy running on Jetson Orin, Raspberry Pi and laptops. Custom `ros2_control` hardware plugin for ST3215 serial-bus servos, URDF description, rosbridge + React web dashboard, system and network-link monitors, RViz base-station panels, and stereo visual odometry with a vendored headless ORB-SLAM3. Fully reproducible with Nix + devenv, with `x86_64` and `aarch64` builds cached in CI (Cachix)
 - **[QuadROS](https://github.com/bocho0600/ros2-quadro)** – Open-source quadcopter software framework for real-time control, simulation, and UAV development using ROS2
 - **[Quadro Autopilot](https://github.com/bocho0600/quadro-quadcopter)** – Custom firmware for self-designed UAV flight controller board with onboard sensor processing and ROS integration
 
 ## 🌱 Learning & Skills
 
 - Machine Learning & Deep Learning (TensorFlow, PyTorch)
-- **ROS2**, ros2_control, SLAM, NAV2, Path Planning
+- **ROS2**, ros2_control, SLAM (ORB-SLAM3), NAV2, Path Planning
+- Reproducible builds and deployment with Nix, devenv and Cachix
 - Real-time embedded systems and robotics
 - 🏆 Certified in Machine Learning, Generative AI, and Large Language Models
 
@@ -36,6 +38,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" height="25"/>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" alt="ROS2" height="25"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="25"/>
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white" alt="Nix" height="25"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="25"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="25"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="25"/>
